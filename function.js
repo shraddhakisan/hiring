@@ -12,7 +12,7 @@ $(document).ready(function(){
  
   $( "#dialog-confirm" ).dialog({
       resizable: false,
-      height:140,
+      height:130,
       modal: true,
       buttons: {
         "X": function() {
